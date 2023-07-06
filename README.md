@@ -1,36 +1,36 @@
-- 👋 Hi, I’m @Porti700
-- 👀 I’m interested in Learning Django with Python to become a FullStack Developer...
-- 🌱 I’m currently learning Django...
-- 💞️ I’m looking to collaborate on Open Source projects to implement my learning path...
-- 📫 How to reach me: kevinportillo11@gmail.com...
+# Welcome to my portfolio
+
+Greetings! I'm Kevin Portillo, a passionate Odoo expert with 2 years of solid experience in developing efficient and customized solutions. My expertise lies in database management, module creation and maintenance, as well as API integration and configuration of Odoo servers in the cloud.
+
+Throughout my career, I have worked diligently to hone my skills in designing and implementing Odoo-based solutions, tailoring them to the specific needs of each client. My focus is on delivering high-quality results and meeting the unique demands of each project.
+
+I have a deep understanding of system integration through API connections, enabling me to optimize functionality and data exchange between Odoo and other platforms. Furthermore, I possess extensive experience in configuring and maintaining Odoo servers in the cloud, ensuring optimal performance and high availability for my clients.
+
+My mastery of Docker allows me to efficiently and scalably deploy Odoo development and production environments, optimizing resources and streamlining implementation processes.
+
+As part of my commitment to excellence, I am dedicated to the ongoing maintenance of Odoo servers, ensuring continuous updates, security, and performance. My goal is to ensure that my clients derive maximum benefit from their systems, minimizing downtime and proactively resolving any issues.
 
 
-# Bienvenido a mi portafolio
+## Statistics
 
-¡Hola! Soy Kevin Portillo, un desarrollador Python especializado en Odoo. También tengo conocimientos en PostgreSQL, diseño web básico (HTML, CSS, JS) y un poco de C#. Como Odoo Developer avanzado, he trabajado en diversos proyectos y contribuido a la comunidad de código abierto.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=porti1876&show_icons=true&theme=radical)](https://github.com/porti1876)
 
-## Estadísticas
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=porti1876&show_icons=true&theme=radical)](https://github.com/porti1876)
-
-## Habilidades
+## Skills
 
 - Python
 - Odoo
 - PostgreSQL
-- Diseño web (HTML, CSS, JS)
+- Web Design (HTML, CSS, JS)
 - C#
 
+## Social Media
 
-## Redes sociales
-
-¡Conéctate conmigo en las siguientes redes sociales!
+Connect with me on the following social media platforms!
 
 - [LinkedIn](https://www.linkedin.com/in/porti1876/)
-- [Sitio web](https://portipy.vercel.app/)
+- [Website](https://portipy.vercel.app/)
 
-¡No dudes en contactarme si tienes alguna pregunta o proyecto interesante en mente!
-
+Feel free to reach out to me if you have any questions or interesting projects in mind!
 
 
 <!---
