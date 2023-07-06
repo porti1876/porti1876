@@ -21,25 +21,13 @@
 - Diseño web (HTML, CSS, JS)
 - C#
 
-## Proyectos destacados
-
-- [Proyecto 1](enlace_al_proyecto_1): Breve descripción del proyecto.
-- [Proyecto 2](enlace_al_proyecto_2): Breve descripción del proyecto.
-
-## Contribuciones
-
-He contribuido a la comunidad de Odoo a través de:
-
-- Pull Requests: [Enlace a los Pull Requests](enlace_a_los_pull_requests)
-- Estrellas: [Enlace a las estrellas](enlace_a_las_estrellas)
 
 ## Redes sociales
 
 ¡Conéctate conmigo en las siguientes redes sociales!
 
-- [LinkedIn](enlace_a_tu_perfil_de_LinkedIn)
-- [Twitter](enlace_a_tu_perfil_de_Twitter)
-- [Sitio web](enlace_a_tu_sitio_web)
+- [LinkedIn](https://www.linkedin.com/in/porti1876/)
+- [Sitio web](https://portipy.vercel.app/)
 
 ¡No dudes en contactarme si tienes alguna pregunta o proyecto interesante en mente!
 
