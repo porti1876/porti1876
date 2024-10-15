@@ -1,6 +1,6 @@
 # Welcome to my portfolio
 
-Greetings! I'm Kevin Portillo, a passionate Odoo expert with almost 2 years of solid experience in developing efficient and customized solutions. My expertise lies in database management, module creation and maintenance, as well as API integration and configuration of Odoo servers in the cloud.
+Greetings! I'm Kevin Portillo, a passionate Odoo expert with almost 3 years of solid experience in developing efficient and customized solutions. My expertise lies in database management, module creation and maintenance, as well as API integration and configuration of Odoo servers in the cloud.
 
 Throughout my career, I have worked diligently to hone my skills in designing and implementing Odoo-based solutions, tailoring them to the specific needs of each client. My focus is on delivering high-quality results and meeting the unique demands of each project.
 
